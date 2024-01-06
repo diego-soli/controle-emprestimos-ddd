@@ -1,0 +1,15 @@
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\bin\Debug\net6.0\EmprestimosLivros.Application.deps.json
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\bin\Debug\net6.0\EmprestimosLivros.Application.dll
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\bin\Debug\net6.0\EmprestimosLivros.Application.pdb
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\bin\Debug\net6.0\EmprestimoLivros.Domain.dll
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\bin\Debug\net6.0\EmprestimoLivros.Domain.pdb
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\obj\Debug\net6.0\EmprestimosLivros.Application.csproj.AssemblyReference.cache
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\obj\Debug\net6.0\EmprestimosLivros.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\obj\Debug\net6.0\EmprestimosLivros.Application.AssemblyInfoInputs.cache
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\obj\Debug\net6.0\EmprestimosLivros.Application.AssemblyInfo.cs
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\obj\Debug\net6.0\EmprestimosLivros.Application.csproj.CoreCompileInputs.cache
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\obj\Debug\net6.0\EmprestimosLivros.Application.csproj.CopyComplete
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\obj\Debug\net6.0\EmprestimosLivros.Application.dll
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\obj\Debug\net6.0\refint\EmprestimosLivros.Application.dll
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\obj\Debug\net6.0\EmprestimosLivros.Application.pdb
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Application\obj\Debug\net6.0\ref\EmprestimosLivros.Application.dll

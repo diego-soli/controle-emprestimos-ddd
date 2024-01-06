@@ -1,0 +1,17 @@
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\bin\Debug\net6.0\EmprestimosLivros.Infra.Data.deps.json
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\bin\Debug\net6.0\EmprestimosLivros.Infra.Data.dll
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\bin\Debug\net6.0\EmprestimosLivros.Infra.Data.pdb
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\bin\Debug\net6.0\EmprestimoLivros.Domain.dll
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\bin\Debug\net6.0\EmprestimoLivros.Domain.pdb
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\obj\Debug\net6.0\EmprestimosLivros.Infra.Data.csproj.AssemblyReference.cache
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\obj\Debug\net6.0\EmprestimosLivros.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\obj\Debug\net6.0\EmprestimosLivros.Infra.Data.AssemblyInfoInputs.cache
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\obj\Debug\net6.0\EmprestimosLivros.Infra.Data.AssemblyInfo.cs
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\obj\Debug\net6.0\EmprestimosLivros.Infra.Data.csproj.CoreCompileInputs.cache
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\obj\Debug\net6.0\EmprestimosLivros.Infra.Data.csproj.CopyComplete
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\obj\Debug\net6.0\EmprestimosLivros.Infra.Data.dll
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\obj\Debug\net6.0\refint\EmprestimosLivros.Infra.Data.dll
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\obj\Debug\net6.0\EmprestimosLivros.Infra.Data.pdb
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\obj\Debug\net6.0\ref\EmprestimosLivros.Infra.Data.dll
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\bin\Debug\net6.0\EmprestimosLivros.Infra.Data.runtimeconfig.json
+C:\_cursos\EmprestimoLivrosClean\EmprestimosLivros.Infra.Data\obj\Debug\net6.0\EmprestimosLivros.Infra.Data.genruntimeconfig.cache

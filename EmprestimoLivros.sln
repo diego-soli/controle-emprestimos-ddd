@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmprestimoLivros.Domain", "EmprestimoLivros.Domain\EmprestimoLivros.Domain.csproj", "{5FD40E8D-96F6-4708-AAC0-6466D0C059AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmprestimosLivros.Infra.Data", "EmprestimosLivros.Infra.Data\EmprestimosLivros.Infra.Data.csproj", "{4E1219A7-27D7-4FE6-9802-DF4579C34A32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmprestimosLivros.Infra.Ioc", "EmprestimosLivros.Infra.Ioc\EmprestimosLivros.Infra.Ioc.csproj", "{D14BCF3E-6CCD-4578-89DA-22572AF2A204}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmprestimosLivros.Application", "EmprestimosLivros.Application\EmprestimosLivros.Application.csproj", "{C606FF6A-ECFB-428A-BEC9-A5F6D568C162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmprestimoLivros.API", "EmprestimoLivros.API\EmprestimoLivros.API.csproj", "{DF21A3DE-988A-4730-BE62-6EC0CC56C011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD40E8D-96F6-4708-AAC0-6466D0C059AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD40E8D-96F6-4708-AAC0-6466D0C059AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD40E8D-96F6-4708-AAC0-6466D0C059AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD40E8D-96F6-4708-AAC0-6466D0C059AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1219A7-27D7-4FE6-9802-DF4579C34A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1219A7-27D7-4FE6-9802-DF4579C34A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1219A7-27D7-4FE6-9802-DF4579C34A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1219A7-27D7-4FE6-9802-DF4579C34A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14BCF3E-6CCD-4578-89DA-22572AF2A204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14BCF3E-6CCD-4578-89DA-22572AF2A204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14BCF3E-6CCD-4578-89DA-22572AF2A204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14BCF3E-6CCD-4578-89DA-22572AF2A204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C606FF6A-ECFB-428A-BEC9-A5F6D568C162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C606FF6A-ECFB-428A-BEC9-A5F6D568C162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C606FF6A-ECFB-428A-BEC9-A5F6D568C162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C606FF6A-ECFB-428A-BEC9-A5F6D568C162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF21A3DE-988A-4730-BE62-6EC0CC56C011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF21A3DE-988A-4730-BE62-6EC0CC56C011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF21A3DE-988A-4730-BE62-6EC0CC56C011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF21A3DE-988A-4730-BE62-6EC0CC56C011}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55C1368-511E-45DF-BEBF-165437FD09E1}
+	EndGlobalSection
+EndGlobal
