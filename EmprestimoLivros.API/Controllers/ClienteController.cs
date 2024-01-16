@@ -75,7 +75,7 @@ namespace EmprestimoLivros.API.Controllers
         public async Task<ActionResult> SelecionarTodos([FromQuery]PaginationParams paginationParams)
         {
             var clientesDTO = await _clienteService.SelecionarTodosAsync(paginationParams.PageNumber,paginationParams.PageSize);
-            Response.AddPaginationHeader( new PaginationHeader(clientesDTO.CurrentPage, clientesDTO.PageSize,clientesDTO.TotalCount,clientesDTO.TotalPages))
+            Response.AddPaginationHeader(new PaginationHeader(clientesDTO.CurrentPage, clientesDTO.PageSize, clientesDTO.TotalCount, clientesDTO.TotalPages));
             return Ok(clientesDTO);
         }
     }
